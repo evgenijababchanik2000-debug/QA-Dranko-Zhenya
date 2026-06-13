@@ -1,22 +1,8 @@
-HELOOOOOOOO
+PYPYPYPY
 
 
 
 
-23	arcadia	oll	Yes
-37	moldovan	daily	no
-42	moldovan	long-term	no
-25	center	daily	no
-14	moldovan	long-term	Yes
-24	seaside	oll	no
-41	moldovan	daily	Yes
-44	arcadia	oll	Yes
-35	seaside	daily	Yes
-28	seaside	oll	no
-22	moldovan	daily	no
-47	moldovan	oll	no
-46	arcadia	long-term	Yes
-25	seaside	long-term	Yes
 24	arcadia	daily	Yes
 14	arcadia	daily	no
 32	center	long-term	no
