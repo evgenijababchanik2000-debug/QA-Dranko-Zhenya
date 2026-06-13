@@ -1,18 +1,8 @@
-Floors	District	Rent	Animals
-42	arcadia	oll	no
-10	center	oll	Yes
-16	seaside	long-term	Yes
-30	moldovan	long-term	no
-11	center	daily	no
-9	arcadia	daily	Yes
-50	arcadia	long-term	no
-35	arcadia	long-term	no
-29	moldovan	daily	Yes
-14	seaside	oll	no
-42	seaside	daily	Yes
-39	moldovan	oll	Yes
-7	seaside	daily	Yes
-41	center	long-term	no
+HELOOOOOOOO
+
+
+
+
 23	arcadia	oll	Yes
 37	moldovan	daily	no
 42	moldovan	long-term	no
