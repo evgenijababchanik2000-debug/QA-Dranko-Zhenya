@@ -1,0 +1,86 @@
+body {
+  background-image: url("photos/фон2.jpg");
+      background-repeat: no-repeat;  
+    background-position: top center; 
+    background-size: cover;      
+    background-attachment: fixed;  
+}
+#bigtittel{
+    font-family: 'Arial Black', sans-serif;
+  font-size: 55px;
+  font-weight: bold;
+  color: #ff69b4;
+  text-shadow: 
+    0 0 4px #ff69b4, 
+    0 0 8px #ff69b4, 
+    0 0 16px #ffb6c1, 
+    0 0 24px #ffb6c1, 
+    0 0 32px #ffffff, 
+    3px 3px 6px rgba(0, 0, 0, 0.15);
+}
+p {
+    font-family: 'Marck Script', cursive;
+    font-size: 20px;
+}
+.link {
+  background-color:   #ff0073;
+  display: inline;
+}
+ul { list-style: none; 
+    padding-left: 0; 
+}
+ul li {
+   background-image: url('photos/book3.png'); 
+    background-repeat: no-repeat;         
+    background-position: 0 center;             
+    background-size: 20px 20px;               
+    padding-left: 28px; 
+}
+div{
+    p.dashed {border-style: dashed;}
+    border: 2px solid rgb(241, 82, 140);
+  border-radius: 5px;
+   height: 125px;
+  width: 300px;
+  margin: 15px 50px 15px 15px;
+  padding-top: 5px;
+  border-style: solid;
+  border-width: 7px;
+}
+.title { 
+font-family: "Garamond", sans-serif;
+  font-size: 30px;
+}
+a:link {
+  text-decoration: none;
+  color: #310047;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #bb088f;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ff007b;
+}
+
+a:active {
+  text-decoration: underline;
+  color:#ffb6c1
+}
+.contacts{
+     background-image: url('photos/heart.png'); 
+    background-repeat: no-repeat;         
+    background-position: 0 center;             
+    background-size: 20px 20px;               
+    padding-left: 28px; 
+}
+img {
+    transition: 0.3s;
+}
+img:hover {
+    transform: scale(1.1);
+}
+    
